@@ -3,6 +3,6 @@ Using player distribution [2, 4]
 Using map distribution range(80, 128)
 
 name                     last_seen            rank     skill       mu      sigma    ngames  active     path                          
-bot2                     20.07.2019 23:31:44   1      23.2357   25.5834    0.7826     469     1        bot2.py                       
-MyBot                    20.07.2019 23:31:44   2      22.6351   24.9785    0.7812     477     1        MyBot.py                      
-Rando                    20.07.2019 23:31:43   3      21.2157   24.2003    0.9949      64     1        Rando.py                      
+bot2                     20.07.2019 23:32:45   1      23.6145   25.9642    0.7832     501     1        bot2.py                       
+MyBot                    20.07.2019 23:32:45   2      22.2642   24.6075    0.7811     511     1        MyBot.py                      
+Rando                    20.07.2019 23:32:43   3      21.5474   24.1934    0.8820      94     1        Rando.py                      
