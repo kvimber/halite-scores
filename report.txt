@@ -3,7 +3,7 @@ Using player distribution [2, 4]
 Using map distribution range(80, 128)
 
 name                     last_seen            rank     skill       mu      sigma    ngames  active     path                          
-Gatherer                 24.07.2019 13:13:56   1      31.8238   34.5434    0.9065    3631     1        /home/bots/halite/Gatherer.py 
-moana_0721               24.07.2019 13:13:56   2      24.5417   26.9300    0.7961    3636     1        /home/bots/halite/moana_0721.1420.py
-better_than_rando        24.07.2019 13:13:56   3      18.8498   21.2787    0.8096    3493     1        /home/bots/halite/better_than_rando.py
-Rando                    24.07.2019 13:13:56   4       8.4489   11.5058    1.0190    3690     1        /home/bots/halite/Rando.py    
+Gatherer                 24.07.2019 13:18:57   1      32.4529   35.1973    0.9148    3652     1        /home/bots/halite/Gatherer.py 
+moana_0721               24.07.2019 13:18:57   2      24.7800   27.1801    0.8001    3658     1        /home/bots/halite/moana_0721.1420.py
+better_than_rando        24.07.2019 13:18:57   3      18.3844   20.8235    0.8130    3514     1        /home/bots/halite/better_than_rando.py
+Rando                    24.07.2019 13:18:57   4       7.9371   10.9984    1.0204    3712     1        /home/bots/halite/Rando.py    
