@@ -3,9 +3,10 @@ Using player distribution [2, 4]
 Using map distribution range(80, 128)
 
 name                     last_seen            rank     skill       mu      sigma    ngames  active     path                          
-FUBot                    29.07.2019 22:32:33   1      33.2183   35.9674    0.9164     631     1        /home/bots/halite/FUBot.py    
-Gatherer                 29.07.2019 22:33:33   2      26.9162   29.2457    0.7765    6823     1        /home/bots/halite/Gatherer.py 
-Dora-1                   29.07.2019 22:33:33   3      23.3588   25.6468    0.7627     271     1        /home/bots/halite/Dora-1.py   
-moana_0721               29.07.2019 22:33:33   4      20.3431   22.5999    0.7523    6882     1        /home/bots/halite/moana_0721.1420.py
-better_than_rando        29.07.2019 22:33:33   5      17.4364   19.7103    0.7579    6739     1        /home/bots/halite/better_than_rando.py
-Rando                    29.07.2019 22:32:47   6      10.9969   13.5492    0.8508    6900     1        /home/bots/halite/Rando.py    
+FUBot                    29.07.2019 22:38:28   1      33.0770   35.8275    0.9168     646     1        /home/bots/halite/FUBot.py    
+Gatherer                 29.07.2019 22:38:36   2      26.9685   29.2999    0.7771    6839     1        /home/bots/halite/Gatherer.py 
+Dora-1                   29.07.2019 22:38:36   3      23.2051   25.4826    0.7592     282     1        /home/bots/halite/Dora-1.py   
+moana_0721               29.07.2019 22:37:42   4      20.4098   22.6520    0.7474    6893     1        /home/bots/halite/moana_0721.1420.py
+Dora-2                   29.07.2019 22:38:28   5      17.7331   23.7817    2.0162      11     1        /home/bots/halite/Dora-2.py   
+better_than_rando        29.07.2019 22:38:18   6      17.3258   19.6110    0.7617    6750     1        /home/bots/halite/better_than_rando.py
+Rando                    29.07.2019 22:37:42   7      10.9984   13.5615    0.8544    6907     1        /home/bots/halite/Rando.py    
