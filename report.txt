@@ -3,10 +3,10 @@ Using player distribution [2, 4]
 Using map distribution range(80, 128)
 
 name                     last_seen            rank     skill       mu      sigma    ngames  active     path                          
-FUBot                    29.07.2019 22:38:28   1      33.0770   35.8275    0.9168     646     1        /home/bots/halite/FUBot.py    
-Gatherer                 29.07.2019 22:38:36   2      26.9685   29.2999    0.7771    6839     1        /home/bots/halite/Gatherer.py 
-Dora-1                   29.07.2019 22:38:36   3      23.2051   25.4826    0.7592     282     1        /home/bots/halite/Dora-1.py   
-moana_0721               29.07.2019 22:37:42   4      20.4098   22.6520    0.7474    6893     1        /home/bots/halite/moana_0721.1420.py
-Dora-2                   29.07.2019 22:38:28   5      17.7331   23.7817    2.0162      11     1        /home/bots/halite/Dora-2.py   
-better_than_rando        29.07.2019 22:38:18   6      17.3258   19.6110    0.7617    6750     1        /home/bots/halite/better_than_rando.py
-Rando                    29.07.2019 22:37:42   7      10.9984   13.5615    0.8544    6907     1        /home/bots/halite/Rando.py    
+FUBot                    29.07.2019 22:43:34   1      32.9832   35.7238    0.9135     664     1        /home/bots/halite/FUBot.py    
+Gatherer                 29.07.2019 22:43:46   2      27.2084   29.5440    0.7785    6847     1        /home/bots/halite/Gatherer.py 
+Dora-1                   29.07.2019 22:43:34   3      23.2737   25.5560    0.7608     298     1        /home/bots/halite/Dora-1.py   
+Dora-2                   29.07.2019 22:43:46   4      22.1326   26.0075    1.2916      25     1        /home/bots/halite/Dora-2.py   
+moana_0721               29.07.2019 22:43:46   5      20.1971   22.4392    0.7474    6906     1        /home/bots/halite/moana_0721.1420.py
+better_than_rando        29.07.2019 22:43:46   6      16.8999   19.2456    0.7819    6768     1        /home/bots/halite/better_than_rando.py
+Rando                    29.07.2019 22:43:02   7      10.7422   13.3260    0.8613    6914     1        /home/bots/halite/Rando.py    
