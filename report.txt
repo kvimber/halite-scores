@@ -3,15 +3,15 @@ Using player distribution [2, 4]
 Using map distribution range(80, 128)
 
 name                     last_seen            rank     skill       mu      sigma    ngames  active     path                          
-Overmind                 04.08.2019 21:09:09   1      33.2264   35.9822    0.9186     207     1        /home/bots/halite/Overmind.py 
-callMeIronMan_mk42       04.08.2019 21:05:38   2      27.6045   29.9157    0.7704    3097     1        /home/bots/halite/callMeIronMan_mk42.py
-FUBot                    04.08.2019 21:05:23   3      25.2708   27.5443    0.7578   13638     1        /home/bots/halite/FUBot.py    
-callMeIronMan            04.08.2019 21:04:07   4      24.3319   26.5662    0.7448   11146     1        /home/bots/halite/callMeIronMan.py
-Gatherer                 04.08.2019 21:09:09   5      23.9345   26.1980    0.7545   19834     1        /home/bots/halite/Gatherer.py 
-Dora-2                   04.08.2019 21:04:54   6      21.4575   23.6238    0.7221   13112     1        /home/bots/halite/Dora-2.py   
-Dora-1                   04.08.2019 21:09:09   7      21.0292   23.2054    0.7254   13483     1        /home/bots/halite/Dora-1.py   
-callMeIshmael            04.08.2019 21:05:23   8      18.9851   21.1992    0.7380   12518     1        /home/bots/halite/callMeIshmael.py
-moana_0721               04.08.2019 21:04:07   9      18.0498   20.2766    0.7423   20046     1        /home/bots/halite/moana_0721.1420.py
-ScatterBot               04.08.2019 21:09:09   10     16.6269   18.8838    0.7523   13127     1        /home/bots/halite/ScatterBot.py
-better_than_rando        04.08.2019 21:04:54   11     15.5890   17.8847    0.7652   19808     1        /home/bots/halite/better_than_rando.py
-Rando                    04.08.2019 20:58:51   12      7.9180   10.6889    0.9236   19871     1        /home/bots/halite/Rando.py    
+Overmind                 04.08.2019 21:15:20   1      33.3567   36.1078    0.9170     210     1        /home/bots/halite/Overmind.py 
+callMeIronMan_mk42       04.08.2019 21:15:20   2      27.7175   30.0382    0.7736    3102     1        /home/bots/halite/callMeIronMan_mk42.py
+FUBot                    04.08.2019 21:13:14   3      24.6069   26.8601    0.7511   13642     1        /home/bots/halite/FUBot.py    
+callMeIronMan            04.08.2019 21:12:44   4      24.2768   26.5158    0.7463   11147     1        /home/bots/halite/callMeIronMan.py
+Gatherer                 04.08.2019 21:13:14   5      23.8542   26.1196    0.7552   19835     1        /home/bots/halite/Gatherer.py 
+Dora-2                   04.08.2019 21:12:41   6      21.3196   23.4891    0.7231   13115     1        /home/bots/halite/Dora-2.py   
+Dora-1                   04.08.2019 21:15:20   7      21.2360   23.4066    0.7236   13486     1        /home/bots/halite/Dora-1.py   
+callMeIshmael            04.08.2019 21:15:20   8      19.0712   21.2820    0.7369   12520     1        /home/bots/halite/callMeIshmael.py
+moana_0721               04.08.2019 21:09:50   9      18.1384   20.3555    0.7390   20047     1        /home/bots/halite/moana_0721.1420.py
+ScatterBot               04.08.2019 21:12:55   10     16.6414   18.9063    0.7550   13128     1        /home/bots/halite/ScatterBot.py
+better_than_rando        04.08.2019 21:11:10   11     15.6120   17.8960    0.7613   19810     1        /home/bots/halite/better_than_rando.py
+Rando                    04.08.2019 21:12:55   12      8.4429   11.1964    0.9178   19875     1        /home/bots/halite/Rando.py    
